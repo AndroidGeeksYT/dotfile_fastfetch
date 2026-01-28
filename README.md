@@ -22,7 +22,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetc
 
 ---
 
-## Donate :
+## Sample :
 
 <p>
 <img src="https://github.com/AndroidGeeksYT/dotfile_fastfetch/blob/main/assets/sample.png">
