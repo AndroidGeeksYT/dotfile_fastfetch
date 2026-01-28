@@ -1,9 +1,9 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/Maintained%3F-YES-cyan?style=for-the-badge">
-<img src="https://img.shields.io/github/license/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/stars/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/issues/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim?color=cyan&style=for-the-badge">
+<img src="https://img.shields.io/github/license/AndroidGeeksYT/dotfile_fastfetch?color=cyan&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/AndroidGeeksYT/dotfile_fastfetch?color=cyan&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/AndroidGeeksYT/dotfile_fastfetch?color=cyan&style=for-the-badge">
+<img src="https://img.shields.io/github/issues/AndroidGeeksYT/dotfile_fastfetch?color=cyan&style=for-the-badge">
 </p>
 
 ---
