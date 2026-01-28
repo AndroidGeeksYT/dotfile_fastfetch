@@ -1,0 +1,76 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "color": {"1": "blue", "2": "black"},
+    "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/png/\" -name \"*.png\" | shuf -n 1)",
+    "source": "~/.config/fastfetch/ascii/logo.txt",
+  },
+  "display": {
+    "separator": " ▸ " // :
+  },
+"modules": [
+  {
+    "type": "title"
+  },
+"break",
+{
+  "type": "os",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "kernel",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "wm",
+  "key": "",
+  "keycolor": "green"
+},
+{
+  "type": "packages",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "memory",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "host",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "cpu",
+  "key": "",
+  "keycolor": "blue"
+},
+{
+  "type": "swap",
+  "key": "",
+  "keycolor": "magenta"
+},
+{
+  "type": "battery",
+  "key": "",
+  "keycolor": "red"
+},
+{
+  "type": "uptime",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "colors",
+  "paddingLeft": 10,
+  "symbol": "circle",
+  "block": {
+    "width": 5
+  }
+},
+"break",
+]
+}
