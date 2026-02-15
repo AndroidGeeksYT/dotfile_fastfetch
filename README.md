@@ -10,7 +10,7 @@
 
 ## ⚙️ Requirements
 
-- Install `fastfetch` first.
+- `fastfetch`
 - A Nerd Font (e.g., [Hack Nerd Font](https://www.nerdfonts.com/))
 
 ## 🚀 Quick Start
