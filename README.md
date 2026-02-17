@@ -8,6 +8,12 @@
 
 ---
 
+<p>
+<img src="https://github.com/AndroidGeeksYT/dotfile_fastfetch/blob/main/assets/sample.png">
+</p>
+
+---
+
 ## ⚙️ Requirements
 
 - `fastfetch`
@@ -19,15 +25,18 @@
 
 ```bash
 # Clone this repo
-git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetch
+git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetch/
 ```
 
 ---
 
-## Sample :
-
-<p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_fastfetch/blob/main/assets/sample.png">
-</p>
+## 🎖️ Credits
+- Fastfetch: Feature rich, Performance oriented System Information Tool.
+- Optimization: Performance tweaks for Termux inspired by the Android/Termux community.
 
 ---
+
+## 💸 Donate
+<p>
+<img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
+</p>
