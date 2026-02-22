@@ -21,6 +21,11 @@
 - `fastfetch`
 - A Nerd Font (e.g., [Hack Nerd Font](https://www.nerdfonts.com/))
 
+```bash
+pkg update && pkg upgrade -y
+pkg install fastfetch
+```
+
 ---
 
 ## 🚀 Quick Start
@@ -38,7 +43,11 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetc
 
 ---
 
-## 💸 Donate
+## :gift_heart: Support
+
+If you like kawaii or its plugins and would like to support it via donation
+
 <p>
 <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
 </p>
+
