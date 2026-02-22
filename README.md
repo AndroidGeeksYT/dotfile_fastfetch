@@ -45,7 +45,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fastfetch ~/.config/fastfetc
 
 ## :gift_heart: Support
 
-If you like kawaii or its plugins and would like to support it via donation
+If you would like to support it via donation
 
 <p>
 <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
