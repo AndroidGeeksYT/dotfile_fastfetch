@@ -1,9 +1,23 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
-    "color": {"1": "blue", "2": "black"},
-    "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/png/\" -name \"*.png\" | shuf -n 1)",
+    "type": "file",
     "source": "~/.config/fastfetch/ascii/logo.txt",
+    "color": {
+      "1": "38;2;245;224;220",
+      "2": "38;2;242;205;205",
+      "3": "38;2;245;194;231",
+      "4": "38;2;250;179;135",
+      "5": "38;2;249;226;175",
+      "6": "38;2;166;227;161",
+      "7": "38;2;148;226;213",
+      "8": "38;2;137;220;235",
+      "9": "38;2;116;199;236"
+    },
+    "padding": {
+      "top": 1,
+      "right": 3
+    }
   },
   "display": {
     "separator": " ▸ " // :
@@ -16,7 +30,7 @@
 {
   "type": "os",
   "key": "",
-  "keycolor": "red"
+  "keycolor": "yellow"
 },
 {
   "type": "kernel",
@@ -26,7 +40,7 @@
 {
   "type": "wm",
   "key": "",
-  "keycolor": "green"
+  "keycolor": "magenta"
 },
 {
   "type": "packages",
@@ -36,17 +50,17 @@
 {
   "type": "memory",
   "key": "",
-  "keycolor": "blue"
+  "keycolor": "red"
 },
 {
   "type": "host",
   "key": "",
-  "keycolor": "blue"
+  "keycolor": "magenta"
 },
 {
   "type": "cpu",
   "key": "",
-  "keycolor": "blue"
+  "keycolor": "yellow"
 },
 {
   "type": "swap",
@@ -74,3 +88,4 @@
 "break",
 ]
 }
+
