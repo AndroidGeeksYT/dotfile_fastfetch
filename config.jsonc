@@ -15,77 +15,77 @@
       "9": "38;2;116;199;236"
     },
     "padding": {
-      "top": 1,
+      "top": 0,
       "right": 3
     }
   },
   "display": {
     "separator": " ▸ " // :
   },
-"modules": [
-  {
-    "type": "title"
-  },
-"break",
-{
-  "type": "os",
-  "key": "",
-  "keycolor": "yellow"
-},
-{
-  "type": "kernel",
-  "key": "",
-  "keycolor": "red"
-},
-{
-  "type": "wm",
-  "key": "",
-  "keycolor": "magenta"
-},
-{
-  "type": "packages",
-  "key": "",
-  "keycolor": "yellow"
-},
-{
-  "type": "memory",
-  "key": "",
-  "keycolor": "red"
-},
-{
-  "type": "host",
-  "key": "",
-  "keycolor": "magenta"
-},
-{
-  "type": "cpu",
-  "key": "",
-  "keycolor": "yellow"
-},
-{
-  "type": "swap",
-  "key": "",
-  "keycolor": "magenta"
-},
-{
-  "type": "battery",
-  "key": "",
-  "keycolor": "red"
-},
-{
-  "type": "uptime",
-  "key": "",
-  "keycolor": "yellow"
-},
-{
-  "type": "colors",
-  "paddingLeft": 10,
-  "symbol": "circle",
-  "block": {
-    "width": 5
-  }
-},
-"break",
-]
+  "modules": [
+    {
+      "type": "title"
+    },
+    "break",
+    {
+      "type": "os",
+      "key": "",
+      "keycolor": "yellow"
+    },
+    {
+      "type": "kernel",
+      "key": "",
+      "keycolor": "red"
+    },
+    {
+      "type": "wm",
+      "key": "",
+      "keycolor": "magenta"
+    },
+    {
+      "type": "packages",
+      "key": "",
+      "keycolor": "yellow"
+    },
+    {
+      "type": "memory",
+      "key": "",
+      "keycolor": "red"
+    },
+    {
+      "type": "host",
+      "key": "",
+      "keycolor": "magenta"
+    },
+    {
+      "type": "cpu",
+      "key": "",
+      "keycolor": "yellow"
+    },
+    {
+      "type": "swap",
+      "key": "",
+      "keycolor": "magenta"
+    },
+    {
+      "type": "battery",
+      "key": "",
+      "keycolor": "red"
+    },
+    {
+      "type": "uptime",
+      "key": "",
+      "keycolor": "yellow"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 10,
+      "symbol": "circle",
+      "block": {
+        "width": 5
+      }
+    },
+    "break",
+  ]
 }
 
