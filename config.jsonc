@@ -45,12 +45,12 @@
     {
       "type": "packages",
       "key": "",
-      "keycolor": "yellow"
+      "keycolor": "magenta"
     },
     {
       "type": "memory",
       "key": "",
-      "keycolor": "red"
+      "keycolor": "magenta"
     },
     {
       "type": "host",
@@ -60,7 +60,7 @@
     {
       "type": "cpu",
       "key": "",
-      "keycolor": "yellow"
+      "keycolor": "magenta"
     },
     {
       "type": "swap",
